@@ -12,3 +12,7 @@ Run ```Kaiju.sh``` to use Kaiju for taxonomic classification of the reads.
 ## Step three
 
 Run ```kaiju2phyloseq.py``` to transform the individual kaiju output files into one phyloseq object.
+
+## Step four
+
+Run ```Pyloseq.R``` to analyse the pyloseq object and create all plots using in microbiome chapter of thesis.
