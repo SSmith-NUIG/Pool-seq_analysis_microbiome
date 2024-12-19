@@ -16,3 +16,8 @@ Run ```kaiju2phyloseq.py``` to transform the individual kaiju output files into 
 ## Step four
 
 Run ```Pyloseq.R``` to analyse the pyloseq object and create all plots using in microbiome chapter of thesis.
+
+
+## Optional
+
+Run ```ancombc2.R``` to analyse the microbiome using ancombc2s method instead of the relative abundance method in the previous step.
