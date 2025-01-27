@@ -15,7 +15,7 @@ Run ```kaiju2phyloseq.py``` to transform the individual kaiju output files into 
 
 ## Step four
 
-Run ```Pyloseq.R``` to analyse the pyloseq object and create all plots using in microbiome chapter of thesis.
+Run ```Pyloseq.R``` to analyse the pyloseq object and create all plots used in the microbiome chapter of thesis.
 
 
 ## Optional
